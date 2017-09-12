@@ -1,6 +1,6 @@
 <h1>Hello! This is Analicia's page!</h1>
 
-</body> description: Bookmark if you like.
+description: Bookmark if you like.
 
 <body> About me: I tend to be very quite and scary looking, 
 but don't let that bother you! 
