@@ -1,5 +1,3 @@
-
-
 <html>
  
 <body>
@@ -14,6 +12,6 @@ but don't let that bother you! I am actually pretty laid back once you get to kn
 <p> Contact: If you need to contact me, you can do so with
 domwins@gmail.com or my personal cell @2108484520 .</p>
  
-</html> My Page: https://github.com/Tanksteezy/Highlighted_Work.git
++! [Jekyll Theme] My Page: (https://github.com/Tanksteezy/Highlighted_Work.git)
 
 
