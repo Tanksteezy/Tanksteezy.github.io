@@ -16,31 +16,8 @@ but don't let that bother you! I am actually pretty laid back once you get to kn
  
  
  <f1> My Page: <f1/> [https://github.com/Tanksteezy/Highlighted_Work.git] 
- 
- _BTW... 
- If you are ever having a bad day 
- and you are too anti-social to talk about it, 
- just take a look at this>>>
- 
- Too bad
-you aren't
-⊂_ヽ
-　 ＼＼ ＿
-　　 ＼(　•_•) F
-　　　 <　⌒ヽ A
-　　　/　  へ＼ B
-　　 /　　/　＼＼ U
-　　 ﾚ　ノ　　 ヽ_つ L
-　　/　/ O
-　 /　/| U
-　(　(ヽ S
-　|　|、＼
-　| 丿 ＼ ⌒)
-　| |　　) /
-`ノ )　　Lﾉ
-(_／Like I am
 
 
-
+:video_game: :video_game: :video_game: :video_game: :video_game: :video_game: :video_game:
 
  <f1> Thanks!!! <f/>
