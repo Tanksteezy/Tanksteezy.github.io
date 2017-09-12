@@ -12,8 +12,8 @@ but don't let that bother you! I am actually pretty laid back once you get to kn
 <p> Contact: If you need to contact me, you can do so with
 domwins@gmail.com or my personal cell @2108484520 .</p>
  
-My Page: (https://github.com/Tanksteezy/Highlighted_Work.git)
+My Page: https://github.com/Tanksteezy/Highlighted_Work.git
 
-<body>I will try to contain ALL of my work in this repo! ^^^
+<body>I will try to contain ALL of my work in this repo(repository)! ^^^
 
 
