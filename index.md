@@ -21,9 +21,9 @@ but don't let that bother you! I am actually pretty laid back once you get to kn
  <body> I will try to contain ALL of my work in My Page linked below!
  
  
- <f1> My Page: <f1/> [GitHub](https://github.com/Tanksteezy/Highlighted_Work.git)
+ <f1> My Page: <f1/> 
+ <p> [GitHub](https://github.com/Tanksteezy/Highlighted_Work.git)<p/>
 
 
-:video_game: :video_game: :video_game: :video_game: :video_game: :video_game: :video_game:
 
  <f1> Thanks!!! <f/>
