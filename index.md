@@ -7,6 +7,9 @@
 <h4> About me: </h4> 
 <p> I tend to be very quite and scary looking, 
 but don't let that bother you! I am actually pretty laid back once you get to know me!</p>
+
+<h4> Work I have done: <h4/>
+![Image of Lara_Analicia_turnaround](https://Tanksteezy.github.io/Lara_Analicia_turnaround.jpg)
  
 <h4>Contact: </h4> 
 <p> If you need to contact me, you can do so with
