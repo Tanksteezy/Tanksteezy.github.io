@@ -12,6 +12,7 @@ but don't let that bother you! I am actually pretty laid back once you get to kn
 
 ![Image of Lara_Analicia_turnaround](https://Tanksteezy.github.io/Lara_Analicia_turnaround.jpg)
 ![Image of Lara_Analicia_outofthisworld](https://Tanksteezy.github.io/Lara_Analicia_outofthisworld.jpg)
+![Image of Lara_Analicia_ParodyLogo](https://Tanksteezy.github.io/Lara_Analicia_ParodyLogo.jpg)
  
 <h4>Contact: </h4> 
 <p> If you need to contact me, you can do so with
