@@ -16,7 +16,7 @@ but don't let that bother you! I am actually pretty laid back once you get to kn
  
 <h4>Contact: </h4> 
 <p> If you need to contact me, you can do so with
-domwins@gmail.com or my personal cell @2108484520.</p>
+Canvas. Just message me onto there.</p>
 
  <body> I will try to contain ALL of my work in My Page linked below!
  
