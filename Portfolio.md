@@ -3,4 +3,4 @@
 
 https://Tanksteezy.github.io/LaraAnalicia_Tutorial.file
 
-<p> Go back to [home page](index.md). </p>
+<p> Go back to [home page](index.md). 
