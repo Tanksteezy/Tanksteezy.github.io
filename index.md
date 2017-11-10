@@ -26,6 +26,6 @@ Canvas. Just message me onto there.</p>
 
 ## Portfolio
 
- <p> [Portfolio](Portfolio.md) </p>
+ <p> [](Portfolio.md) </p>
 
  <f1> Thanks!!! <f/>
