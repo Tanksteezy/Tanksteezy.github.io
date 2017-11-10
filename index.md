@@ -26,6 +26,6 @@ Canvas. Just message me onto there.</p>
 
 ## Portfolio
 
- <p> [](Portfolio.md) </p>
+ <p> [GitHub](https://github.com/Tanksteezy/Portfolio.git) </p>
 
  <f1> Thanks!!! <f/>
