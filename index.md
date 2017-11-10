@@ -21,9 +21,11 @@ Canvas. Just message me onto there.</p>
  <body> I will try to contain ALL of my work in My Page linked below!
  
  
- <f1> My Page: <f1/> 
+ ## My Page:  
  <p> [GitHub](https://github.com/Tanksteezy/Highlighted_Work.git)<p/>
 
+## Portfolio
 
+ <p> [Portfolio](Portfolio.md) </p>
 
  <f1> Thanks!!! <f/>
